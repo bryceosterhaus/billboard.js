@@ -97,7 +97,7 @@
     "karma-mocha-reporter": "^2.2.3",
     "karma-sinon": "^1.0.5",
     "karma-sourcemap-loader": "^0.3.7",
-    "karma-webpack": "^4.0.0-rc.6",
+    "karma-webpack": "^4.0.1",
     "lite-fixture": "^1.0.2",
     "mini-css-extract-plugin": "^0.7.0",
     "mocha": "^6.1.4",
